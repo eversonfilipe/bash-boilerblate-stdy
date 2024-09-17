@@ -1,6 +1,6 @@
-
+<img src = https://img.shields.io/github/watchers/{eversonfilipe}/{bash-boilerplate-stdy}.svg>
 ---
-# bash-boilerblate-stdy 🐧
+# bash-boilerplate-stdy 🐧
 This repository is the result about the start of my studies about Bash & "Boilerplate" and it's elements. <br>
 I hope you guys like it! :)
 
